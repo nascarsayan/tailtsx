@@ -1,8 +1,8 @@
-# Preact TypeScript starter project
+# Preact TypeScript Tailwind starter project
 
 ## Documentation
 
-- This is a TypeScript version of the default template for
+- This is a TypeScript Tailwind version of the default template for
   [preact-cli](https://github.com/developit/preact-cli).
 - [For Preact](https://preactjs.com/): General information about how to work
   with Preact, not specific to this template
@@ -11,7 +11,7 @@
 
 ```bash
 $ npm install -g preact-cli
-$ preact create typescript my-project
+$ preact create nascarsayan/tailtsx my-project
 $ cd my-project
 $ npm install
 $ npm run dev
